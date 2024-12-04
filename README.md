@@ -47,16 +47,6 @@ This project explores advanced numerical integration techniques, including:
 - **Stability**: Haber’s second-order estimator and Quasi-Monte Carlo methods had the least variance.
 - **Efficiency**: Monte Carlo is the fastest method; Importance Sampling showed potential but requires improved sampling distributions.
 
-## How to Run
-
-1. Install necessary dependencies (e.g., `numpy`, `matplotlib`).
-2. Clone the repository and navigate to the project directory.
-3. Run the following scripts for each method:
-   - **Monte Carlo**: `monte_carlo.py`
-   - **Quasi-Monte Carlo**: `quasi_monte_carlo.py`
-   - **Haber’s Estimators**: `habers_estimators.py`
-   - **Importance Sampling**: `importance_sampling.py`
-
 ## Conclusion
 
 This project demonstrates the strengths of Quasi-Monte Carlo methods and Haber’s Estimators in providing accuracy and stability. Importance Sampling shows potential but requires careful selection of sampling distributions. These methods offer valuable tools for advanced numerical integration.
